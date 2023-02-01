@@ -1,0 +1,4 @@
+name : a
+age : 30
+tel : 1234
+city : seoul
